@@ -96,9 +96,9 @@ Wenn wir den `DecisionTreeClassifier()` von scikit-learn verwenden, sehen wir, d
 
 **DecisionTreeClassifier with depth 5:**
 
-​               Confusion Matrix Training Data:                             Confusion Matrix Test Data:
+​               Confusion Matrix Training Data:                          Confusion Matrix Test Data:
 
-![Confusion Matrix Training Data depth 5](./images/A4_train.png) | ![Confusion Matrix Test Data depth 5](./images/A4_test.png)
+![Confusion Matrix Training Data depth 5](./images/A4_train.png) ![Confusion Matrix Test Data depth 5](./images/A4_test.png)
 
 
 
