@@ -136,4 +136,4 @@ und erhalten folgenden Confusion Matrizen:
 
 ![Confusion Matrix Training Data depth 5](./images/A6_train.png) ![Confusion Matrix Test Data depth 5](./images/A6_test.png)
 
-Die Genaugkeit auf den Testdaten ist aber nicht signifikant anders und liegt ebenfalls bei 0.9876543209876543.
+Die Genaugkeit auf den Testdaten ist aber nicht signifikant anders und liegt bei 0.9783950617283951.
