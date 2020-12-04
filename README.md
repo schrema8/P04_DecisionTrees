@@ -1,7 +1,7 @@
 # P04 - Decision Trees
 
 # Task 1
-Der beste Split, der gefunden für den Baumstumpf gefunden wird ist ('doors', '5more', 'rating').
+Der beste Split, der für den Baumstumpf gefunden wird ist ('doors', '5more', 'rating').
 
 # Task 2
 Der Stump predicted gesamthaft gesehen relativ schlecht, besonders, weil er nur 'unacceptable' als Label predicted. Unter Beachtung davon, dass er aber nur Tiefe 1 hat, ist dies der beste Split, den er wählen konnte, da die meisten Datenpunkte tatsächlich das Label 'unacceptable' haben.
